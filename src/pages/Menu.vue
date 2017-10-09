@@ -21,7 +21,7 @@
 
 <script>
 import Search from './Search.vue';
-import Book from './book.vue';
+import Book from './Book.vue';
 import Folder from './Folder.vue';
 import Favourite from './Favourite.vue';
 import Profile from './Profile.vue';
